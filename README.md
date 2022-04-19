@@ -1,7 +1,6 @@
 <h1>👋Olá meu nome é <i>Wictor Hiago</i><h1>
-<h3>🤵‍Tenho 28 anos, Brasileiro natural do Amazonas,Manaus<br>
-👨‍✈️🎖️Ex-Militar do Exército Brasileiro onde ingressei nas fileiras
-em 2012 e sai em 2020. <br>
+<h3>🤵‍29 anos, Brasileiro natural do Amazonas,Manaus<br>
+👨‍✈️🎖️Ex-Militar, Exército Brasileiro março de 2012 a março de 2020. <br>
 💼Hoje trabalho como segurança patrimonial em uma empresa Privada. <br>
 📚Fiz curso de Manutenção de computadores DeskTop e Notebook's<br>
 no 4° Centro de Telemática de Área (Exército Brasileiro - CETAM). <br>
