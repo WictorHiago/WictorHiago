@@ -1,16 +1,21 @@
-<h1>👋Olá meu nome é <i>Wictor Hiago</i><h1>
-<h3>🤵‍29 anos, Brasileiro natural do Amazonas,Manaus<br>
-👨‍✈️🎖️Ex-Militar, Exército Brasileiro março de 2012 a março de 2020. <br>
-💼Ocupação: Padawan procurando uma Nova Jornada!. <br>
-📚Fiz curso de Manutenção de computadores DeskTop e Notebook's<br>
-no 4° Centro de Telemática de Área (Exército Brasileiro - CETAM). <br>
-Hoje faço curso de DEV WEB FullStack,na área a qual desejo me especializar<br>
-Natural do Amazonas, Manaus. <br>
-🏆Meu Objetivo Pessoal é me tornar um DEV Back-End com Skills em tecnologias da atualidade<br>
-e como consequência, poder ter uma vida mais econômicamente mais saudável<br>
-e sustentável.<br>
-<h2>Contatos<h2>
-<li>📧Email: wictor.backup@gmail.com
-<li>📸Facebook: Wictor
-<li>📷Instagram: @Hwictorv
-<li>📱Whatsapp: +55 92 98289-2832
+<h1>👋 <i>Hello there</i><h1>
+
+  <div align="center">
+  <a href="https://github.com/WictorHiago">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wictorhiago&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wictorhiago&layout=compact&langs_count=7&theme=gotham"/>
+  </div>
+<p align="center">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
+<img src="https://github.com/WictorHiago/developer/blob/main/Postgresql_elephant.svg.png" height="40" style="vertical-align:down; margin:4px" alt="postgres">
+</p>
+<ul>
+<li>🔭 I’m currently working on Prime Arte.</li>
+<li>🧐 Learning about OOP, TypeOrm, SOLID.</li>
+<li>👨‍💻 Most of my projects are available on Github.</li>
+<li>📝 I enjoy participating in Dev communities on Discord.</li>
+<li>💬 Ping me about javascript, typescript, expressJs, git.</li>
+<li>📧Email: wictor.backup@gmail.com</li>
+</ul>
