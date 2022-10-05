@@ -1,4 +1,4 @@
-<h1>👋 <i>Hello there</i><h1>
+<h1 align=center>👋 <i>Hello there</i><h1>
 
   <div align="center">
   <a href="https://github.com/WictorHiago">
@@ -11,6 +11,23 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
 <img src="https://github.com/WictorHiago/developer/blob/main/Postgresql_elephant.svg.png" height="40" style="vertical-align:down; margin:4px" alt="postgres">
 </p>
+<br>
+    
+```javascript
+const Wictor_Hiago = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "TypeOrm", "Express"],
+        },
+        devops_notions: ["AWS", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "Postgres"],
+    },
+    architecture: ["MVC", "Microservices"],
+    currentFocus: "Web Development"
+};
+```
 <ul>
 <li>🔭 I’m currently working on Prime Arte.</li>
 <li>🧐 Learning about OOP, TypeOrm, SOLID.</li>
