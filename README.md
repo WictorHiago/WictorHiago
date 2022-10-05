@@ -5,6 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wictorhiago&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wictorhiago&layout=compact&langs_count=7&theme=gotham"/>
   </div>
+    <br>
 <p align="center">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
