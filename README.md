@@ -6,7 +6,7 @@ e poder acompanhar a evolução e expansão da internet foi uma das experiêcias
 Desde então estudar programação tem sido meu grande entusiasmo. E também adoro explorar novas tecnologias
 e aproveitar para construir coisas legais.</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="wictorhiago" /> 
+ <img src="https://komarev.com/ghpvc/?username=whiago&label=Profile%20views&color=0e75b6&style=flat" alt="wictorhiago" /> 
 
 </p>
 
