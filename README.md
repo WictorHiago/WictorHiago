@@ -1,10 +1,9 @@
 
 <h1 align="center">Olá meu nome é Wictor Hiago</h1>
 <h2 align="center">Um programador apaixonado do Amazonas,Brasil</h2>
-<p align="center">Sou fascinado de como a tecnologia trouxe mudanças consideraveis para nossas vidas em muito curto prazo
-e poder acompanhar a evolução e expansão da internet foi uma das experiêcias mais sensacionais que tive.
-Desde então estudar programação tem sido meu grande entusiasmo. E também adoro explorar novas tecnologias
-e aproveitar para construir coisas legais.</p>
+<p align="center">Sou fascinado de como a tecnologia trouxe mudanças consideráveis para nossas vidas em muito curto prazo
+ e poder acompanhar a evolução e expansão da internet foi uma das experiências mais sensacionais que tive.
+ Desde então estudar programação tem sido meu grande entusiasmo. E também adoro explorar novas tecnologias e aproveitar para construir coisas legais.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=whiago&label=Profile%20views&color=0e75b6&style=flat" alt="wictorhiago" /> 
 
