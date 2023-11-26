@@ -1,41 +1,70 @@
-<h1 align=center>👋 <i>Hello there</i><h1>
-<ul>
-<li>🔭 I’m currently working on Prime Arte.</li>
-<li>🧐 Learning about OOP, TypeOrm, SOLID.</li>
-<li>👨‍💻 Most of my projects are available on Github.</li>
-<li>📝 I enjoy participating in Dev communities on Discord.</li>
-<li>💬 Ping me about javascript, typescript, expressJs, git.</li>
-<li>📧Email: wictor.backup@gmail.com</li>
-</ul>
-  
+
+<h1 align="center">Olá meu nome é Wictor Hiago</h1>
+<h2 align="center">Um programador apaixonado do Amazonas,Brasil</h2>
+<p align="center">Sou fascinado de como a tecnologia trouxe mudanças consideraveis para nossas vidas em muito curto prazo
+e poder acompanhar a evolução e expansão da internet foi uma das experiêcias mais sensacionais que tive.
+Desde então estudar programação tem sido meu grande entusiasmo. E também adoro explorar novas tecnologias
+e aproveitar para construir coisas legais.</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="wictorhiago" /> 
+
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 Atualmente estou trabalhando em **Projeto Pessoal**
+
+- 🌱 Atualmente estou aprendendo **Python | Flask**
+
+- 💬 Pergunte-me sobre **Node.js | Typescript | Python**
+
+- 📫 Como entrar em contato comigo **wictor.backup@gmail.com**
+
+- ⚡ Curiosidade sobre mim, **acho que sou engraçado**
+
 <br>
-<p align="center">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://github.com/WictorHiago/developer/blob/main/Postgresql_elephant.svg.png" height="40" style="vertical-align:down; margin:4px" alt="postgres">
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dev-wictor-hiago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wictorhiago" height="30" width="40" /></a>
 </p>
 <br>
-    
-```javascript
-const Wictor_Hiago = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "TypeOrm", "Express"],
-        },
-        devops_notions: ["AWS", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "Postgres"],
-    },
-    architecture: ["MVC", "Microservices"],
-    currentFocus: "Web Development"
-};
-```
 
-  
-  <div align="center">
-  <a href="https://github.com/WictorHiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wictorhiago&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wictorhiago&layout=compact&langs_count=7&theme=gotham"/>
-  </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Linguagens e Ferramentas</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,py,flask,express,nestjs" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+  </a>
+</p>
