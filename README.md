@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá meu nome é Wictor Hiago</h1>
-<h2 align="center">Um programador apaixonado do Amazonas,Brasil</h2>
+<h2 align="center">Desenvolvedor de Software, natural do Amazonas,Brasil</h2>
 <p align="center">Sou fascinado de como a tecnologia trouxe mudanças consideráveis para nossas vidas em muito curto prazo
  e poder acompanhar a evolução e expansão da internet foi uma das experiências mais sensacionais que tive.
  Desde então estudar programação tem sido meu grande entusiasmo. E também adoro explorar novas tecnologias e aproveitar para construir coisas legais.</p>
