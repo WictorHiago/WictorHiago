@@ -3,7 +3,7 @@
 <h2 align="center">Desenvolvedor de Software, natural do Amazonas,Brasil</h2>
 <p align="center">Sou fascinado de como a tecnologia trouxe mudanças consideráveis para nossas vidas em muito curto prazo
  e poder acompanhar a evolução e expansão da internet foi uma das experiências mais sensacionais que tive.
- Desde então estudar programação tem sido meu grande entusiasmo. E também adoro explorar novas tecnologias e aproveitar para construir coisas legais.</p>
+ Desde então estudar programação tem sido meu grande entusiasmo. Também adoro explorar novas tecnologias e com elas criar diversas soluções.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=whiago&label=Profile%20views&color=0e75b6&style=flat" alt="wictorhiago" /> 
 
