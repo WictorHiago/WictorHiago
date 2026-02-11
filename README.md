@@ -25,13 +25,13 @@
 
 ## 🧩 Sobre mim
 
-Engenheiro de Software **Full Stack** com mais de **3 anos de experiência** no desenvolvimento de aplicações web modernas, escaláveis e orientadas a produto — do frontend ao backend, infraestrutura e integração com **IA Generativa**.
+Engenheiro de Software **Full Stack** com mais de **4 anos de experiência** no desenvolvimento de aplicações web modernas, escaláveis e orientadas a produto — do frontend ao backend, infraestrutura e integração com **IA Generativa**.
 
 - 🔭 Atualmente atuando como **Desenvolvedor Full Stack Pleno** na INNYX Educação
 - 🌱 Sempre explorando **microsserviços**, **cloud (AWS/GCP)** e **LLMs**
 - 💬 Pergunte-me sobre **Node.js**, **Java 17**, **Spring Boot**, **TypeScript** e **APIs REST**
 - 📫 Contato: **wictor.backup@gmail.com**
-- ⚡ Curiosidade: adoro resolver problemas com código limpo e arquitetura que escala
+- 💻Bacharelando em **Ciência da Computação**
 
 ---
 
@@ -85,10 +85,7 @@ Engenheiro de Software **Full Stack** com mais de **3 anos de experiência** no 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WictorHiago&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Wictor Hiago GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WictorHiago&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ---
 
