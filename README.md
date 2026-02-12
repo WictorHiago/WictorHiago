@@ -34,7 +34,8 @@
 
 ## 🧩 Sobre mim
 
-Engenheiro de Software **Full Stack** com mais de **4 anos de experiência** no desenvolvimento de aplicações web modernas, escaláveis e orientadas a produto — do frontend ao backend, infraestrutura e integração com **IA Generativa**. Sou um curioso nato, sempre procurando aprender não só tecnologias
+Engenheiro de Software **Full Stack** com mais de **4 anos de experiência** no desenvolvimento de aplicações web modernas, escaláveis e orientadas a produto — do frontend ao backend, infraestrutura e integração com **IA Generativa**. Sou um curioso nato, sempre procurando aprender não só tecnologias 
+mas de tudo um pouco, acho que trocar ideias e compartilhar experiências é algo super importante  tanto profissional quanto pessoal.
 
 - 🔭 Atualmente atuando como **Desenvolvedor Full Stack** na INNYX Educação
 - 🌱 Sempre explorando **microsserviços**, **cloud (AWS/GCP)** e **LLMs**
