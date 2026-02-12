@@ -1,12 +1,20 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Wictor Hiago
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:339933,50:ED8B00,100:3178C6&height=120&section=header" alt="header" />
 
-### Engenheiro de Software Full Stack · Brasil 🇧🇷
+# 😎Olá! eu sou **Wictor Hiago**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=WictorHiago&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/WictorHiago)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-wictor-hiago/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wictor.backup@gmail.com)
+### Engenheiro de Software Full Stack
+
+*Node.js · Java 17 · TypeScript · APIs & Microsserviços*
+
+📍 São Paulo - Brasil 🇧🇷
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=WictorHiago&label=Visitas%20ao%20perfil&color=0e75b6&style=for-the-badge)](https://github.com/WictorHiago)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-wictor-hiago/)
+[![E-mail](https://img.shields.io/badge/wictor.backup%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wictor.backup@gmail.com)
 
 </div>
 
@@ -16,8 +24,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Java%2017-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Java%2017-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
 
@@ -25,9 +34,9 @@
 
 ## 🧩 Sobre mim
 
-Engenheiro de Software **Full Stack** com mais de **4 anos de experiência** no desenvolvimento de aplicações web modernas, escaláveis e orientadas a produto — do frontend ao backend, infraestrutura e integração com **IA Generativa**.
+Engenheiro de Software **Full Stack** com mais de **4 anos de experiência** no desenvolvimento de aplicações web modernas, escaláveis e orientadas a produto — do frontend ao backend, infraestrutura e integração com **IA Generativa**. Sou um curioso nato, sempre procurando aprender não só tecnologias
 
-- 🔭 Atualmente atuando como **Desenvolvedor Full Stack Pleno** na INNYX Educação
+- 🔭 Atualmente atuando como **Desenvolvedor Full Stack** na INNYX Educação
 - 🌱 Sempre explorando **microsserviços**, **cloud (AWS/GCP)** e **LLMs**
 - 💬 Pergunte-me sobre **Node.js**, **Java 17**, **Spring Boot**, **TypeScript** e **APIs REST**
 - 📫 Contato: **wictor.backup@gmail.com**
@@ -39,27 +48,27 @@ Engenheiro de Software **Full Stack** com mais de **4 anos de experiência** no 
 
 ### Linguagens
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,php,go" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=java,spring,go,cs,net,elixir" alt="Linguagens" />
 </p>
 
-### Backend
+### Backend Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,js,ts,nestjs,php,laravel,jest" alt="Backend" />
 </p>
 
-### Frontend
+### Frontend Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,tailwind" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,tailwind,css,html" alt="Frontend" />
 </p>
 
-### Banco de Dados & Cache
+### Banco de Dados, Cache, Broker
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,rabbitmq,supabase" alt="Databases" />
 </p>
 
 ### DevOps & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,github,gitlab,nginx,linux" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,github,gitlab,bitbucket,nginx,linux,jenkins" alt="DevOps" />
 </p>
 
 ### Ferramentas
@@ -86,6 +95,11 @@ Engenheiro de Software **Full Stack** com mais de **4 anos de experiência** no 
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=WictorHiago&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=WictorHiago&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ---
 
